@@ -9,15 +9,7 @@ namespace SQL_inlämning_1
         static void Main(string[] args)
         {
             var query = new Query();
-
-            
-
             query.Menu();
-
-
-            
-                
-
         }
     }
 }

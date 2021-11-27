@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\x\\OneDrive\\Documents\\Local souce\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1.csproj",
+      "projectUniqueName": "C:\\Users\\x\\OneDrive\\Documents\\Local souce\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1.csproj",
       "projectName": "SQL_inlämning_1",
-      "projectPath": "C:\\Users\\x\\OneDrive\\Documents\\Local souce\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1.csproj",
+      "projectPath": "C:\\Users\\x\\OneDrive\\Documents\\Local souce\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1.csproj",
       "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\x\\OneDrive\\Documents\\Local souce\\SQL_inlämning_1\\SQL_inlämning_1\\obj\\",
+      "outputPath": "C:\\Users\\x\\OneDrive\\Documents\\Local souce\\SQL_inlämning_1\\SQL_inlämning_1\\SQL_inlämning_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config",
